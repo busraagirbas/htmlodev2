@@ -19,5 +19,5 @@
 
 <h2>Sevdiğim Diziler</h2>
 <p><strong>Leyla ile Mecnun</strong></p>
-<img width="450" height="250" src="https://www.imdb.com/title/tt1831164/mediaviewer/rm3668243201/?ref_=tt_ov_i" alt="Leyla ve Mecnun adlı bir çiftin sıra dışı yolculuğunu konu alan eşsiz ve yürek ısıtan bir dizi. Ali Atay'ın Mecnun ve Ezgi Asaroğlu'nu Leyla olarak canlandırdığı dizi, büyük bir hayran kitlesi ve eleştirmenlerin beğenisini topladı.">
+<img width="450" height="250" src="[https://www.imdb.com/title/tt1831164/mediaviewer/rm3668243201/?ref_=tt_ov_i](https://upload.wikimedia.org/wikipedia/tr/thumb/2/29/Leyla-ile-Mecnun-Ekran.jpg/220px-Leyla-ile-Mecnun-Ekran.jpg)" alt="Leyla ve Mecnun adlı bir çiftin sıra dışı yolculuğunu konu alan eşsiz ve yürek ısıtan bir dizi. Ali Atay'ın Mecnun ve Ezgi Asaroğlu'nu Leyla olarak canlandırdığı dizi, büyük bir hayran kitlesi ve eleştirmenlerin beğenisini topladı.">
 <p><em>Leyla ve Mecnun adlı bir çiftin sıra dışı yolculuğunu konu alan eşsiz ve yürek ısıtan bir dizi. Ali Atay'ın Mecnun ve Ezgi Asaroğlu'nu Leyla olarak canlandırdığı dizi, büyük bir hayran kitlesi ve eleştirmenlerin beğenisini topladı.</em></p>
