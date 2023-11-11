@@ -6,17 +6,14 @@
     <ul><li>Coco</li></ul>
     <ul><li>La La Land</li></ul>
     <ul><li>The Little Prince</li></ul>
-
     <li>Dizi</li>
     <ul><li> <a href="https://www.imdb.com/title/tt1831164/" target="_blank">Leyla ile Mecnun</a></li></ul>
     <ul><li>Gibi</li></ul>
     <ul><li>Modern Family</li></ul>
-
     <li>Kitap</li>
     <ul><li>Çalıkuşu</li></ul>
     <ul><li>Kürk Mantolu Madonna</li></ul>
     <ul><li>Bir Adam Girdi Şehre Koşarak</li></ul>
-
 </ol>
 </p>
 
